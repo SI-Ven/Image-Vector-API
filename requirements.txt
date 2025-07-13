@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+torchvision
+ftfy
+regex
+tqdm
+requests
+Pillow
